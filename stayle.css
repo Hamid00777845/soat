@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    background-color:rgb(27, 113, 134) ;
+}
+.container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.vaqt {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   height: 800px;
+   font-size: 2000%;
+   gap: 10px;
+   background-color: rgb(26, 189, 201);
+   border-radius: 170px;
+   color:white;
+}
